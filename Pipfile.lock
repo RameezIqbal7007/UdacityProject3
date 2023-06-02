@@ -1,0 +1,51 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e2a8a78582d100dc86a0694f5ad982ca341a6b861fd871c6306733562f9e16cc"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "sendgrid": {"version": "==6.3.1"},
+        "python-http-client": {"version": "==3.3.3"},
+        "psycopg2": {},
+        
+        "flask": {},
+        "markupsafe": {},
+        "werkzeug": {},
+        "jinja2": {},
+        "click": {},
+        "itsdangerous": {},
+        "flask_sqlalchemy": {},
+        "sqlalchemy": {},
+        "uamqp": {},
+        "six": {},
+        "certifi": {},
+        "azure": {},
+        "azure-common": {"version": "==1.1.26"},
+        "azure-core": {"version": "==1.13.0"},
+        "azure-functions": {"version": "==1.6.0"},
+        "azure-nspkg": {"version": "==3.0.2"},
+        "azure-servicebus": {"version": "==0.50"},
+        "azure-storage": {"version": "==0.36.0"},
+        "msrest": {},
+        "requests": {},
+        "urllib3": {},
+        "chardet": {},
+        "oauthlib": {},
+        "idna": {},
+        "requests_oauthlib": {},
+        "isodate": {}
+    },
+    "develop": {}
+}
